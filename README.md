@@ -5,7 +5,7 @@ how to set up server
 1. Set Up Your EC2 Instance
 Launch an Ubuntu EC2 instance on AWS.
 
-Allow the following inbound rules in the EC![code 2](https://github.com/user-attachments/assets/c4fe50e0-2205-44bb-bcf8-c29657a4f2fc)
+Allow the following inbound rules in the EC!
 2 security group:
 
 SSH (port 22) – for remote access.
