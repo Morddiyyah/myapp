@@ -5,7 +5,8 @@ how to set up server
 1. Set Up Your EC2 Instance
 Launch an Ubuntu EC2 instance on AWS.
 
-Allow the following inbound rules in the EC2 security group:
+Allow the following inbound rules in the EC![code 2](https://github.com/user-attachments/assets/c4fe50e0-2205-44bb-bcf8-c29657a4f2fc)
+2 security group:
 
 SSH (port 22) – for remote access.
 
@@ -25,7 +26,7 @@ my public Ipv4 address -- http://18.175.143.217
 
 
 
-
+![code 2](https://github.com/user-attachments/assets/c4e6b4d0-1ad2-4c23-baad-0ad7538b7213)
 
 ## Tools Used
 - Node.js
